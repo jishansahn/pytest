@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="1" time="0.062"><properties><property name="ARCH" value="PPC-CPP"/><property name="STORAGE_TYPE" value="CEPH"/></properties><testcase classname="test_function" file="test_function.py" line="40" name="test_myoutput" time="0.0"></testcase></testsuite>

@@ -1,0 +1,16 @@
+F test_function.py::test_function
+ record_xml_property = <function record_xml_property.<locals>.add_property_noop at 0x000000000368C598>
+ 
+     def test_function(record_xml_property):
+         record_xml_property("example_key", 1)
+ >       assert 0
+ E       assert 0
+ 
+ test_function.py:5: AssertionError
+F test_function.py::test_zero_division
+ def test_zero_division():
+         # with pytest.raises(ZeroDivisionError):
+ >       1/0
+ E       ZeroDivisionError: division by zero
+ 
+ test_function.py:9: ZeroDivisionError
